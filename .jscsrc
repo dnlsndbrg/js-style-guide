@@ -42,8 +42,6 @@
   "requireSpacesInForStatement": true,
   "requireSpaceBetweenArguments": true,
   "requireCurlyBraces": [
-    "if",
-    "else",
     "for",
     "while",
     "do",
