@@ -30,6 +30,6 @@
     "bitwise": true,
     "latedef": true,
     "nonbsp": true,
-    "quotmark": "single",
+    "quotmark": "double",
     "esversion": 6
 }
